@@ -1,2 +1,2 @@
-# D3.js
+# Plotly H/W
 H/W
